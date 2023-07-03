@@ -3,7 +3,7 @@ package com.internshala;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class HomePage {
+/* public class HomePage {
     
     private WebDriver driver;
     private By searchBox = By.id("twotabsearchtextbox");
@@ -18,4 +18,4 @@ public class HomePage {
         driver.findElement(searchButton).click();
     }
     
-}
+} */

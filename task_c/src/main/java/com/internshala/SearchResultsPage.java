@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-public class SearchResultsPage {
+/* public class SearchResultsPage {
     
     private WebDriver driver;
     private By resultItems = By.cssSelector(".s-result-item");
@@ -24,4 +24,4 @@ public class SearchResultsPage {
         }
     }
     
-}
+} */

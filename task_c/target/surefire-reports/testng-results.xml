@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-03T12:10:22 IST" name="Surefire suite" finished-at="2023-07-03T12:10:49 IST" duration-ms="26931">
+    <groups>
+    </groups>
+    <test started-at="2023-07-03T12:10:22 IST" name="Surefire test" finished-at="2023-07-03T12:10:49 IST" duration-ms="26931">
+      <class name="com.internshala.AmazonSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.internshala.AmazonSearchTest@53fdffa1]" started-at="2023-07-03T12:10:22 IST" name="setUp" finished-at="2023-07-03T12:10:24 IST" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchAndGetFifthElementName()[pri:0, instance:com.internshala.AmazonSearchTest@53fdffa1]" started-at="2023-07-03T12:10:24 IST" name="testSearchAndGetFifthElementName" finished-at="2023-07-03T12:10:48 IST" duration-ms="23902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchAndGetFifthElementName -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.internshala.AmazonSearchTest@53fdffa1]" started-at="2023-07-03T12:10:48 IST" name="tearDown" finished-at="2023-07-03T12:10:49 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.internshala.AmazonSearchTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
